@@ -6,16 +6,17 @@ import shutil
 
 import gradio as gr
 
-from ui.helpers import load, all_players
+from ui.helpers import load, all_players, build_table_rows
 
 
-def build() -> None:
+def build(table: gr.Dataframe) -> None:
     """Render Tab 3 inside an already-open gr.Blocks context."""
 
     gr.Markdown(
         "### Import from CSV\n"
-        "Upload a `lotto.csv` file – it will be converted to `lotto.json` "
-        "and **overwrite** the current data. Switch to the Data tab afterwards to review."
+        "Got a fresh export? Drop your CSV file here and hit **⚙️ Convert & Import**. "
+        "This will replace all current data, so make sure the file is up to date! "
+        "Head over to the **📋 Data** tab afterwards to check everything looks right."
     )
 
     csv_upload     = gr.File(label="Upload lotto.csv", file_types=[".csv"], type="filepath")
@@ -25,30 +26,29 @@ def build() -> None:
 
     def do_import(filepath):
         if filepath is None:
-            return "⚠ No file selected.", ""
+            return "⚠ No file selected.", "", []
         from converter.csv_to_json import convert
         shutil.copy(filepath, "lotto.csv")
         try:
             convert("lotto.csv", "lotto.json")
         except Exception as e:
-            return f"❌ Conversion failed: {e}", ""
-        data     = load()
-        n_draws  = len(data["draws"])
+            return f"❌ Conversion failed: {e}", "", []
+        data      = load()
+        n_draws   = len(data["draws"])
         n_entries = sum(len(d["players"]) for d in data["draws"])
-        n_wins   = sum(1 for d in data["draws"] for p in d["players"] if p["win_class"] is not None)
-        players  = all_players(data)
-        preview  = (
+        n_wins    = sum(1 for d in data["draws"] for p in d["players"] if p["win_class"] is not None)
+        players   = all_players(data)
+        preview   = (
             f"**✅ Import successful!**\n\n"
             f"- **Draws:** {n_draws}\n"
             f"- **Player entries:** {n_entries}\n"
             f"- **Prize-winning hits:** {n_wins}\n"
             f"- **Players found:** {', '.join(players)}"
         )
-        return "✅ Done – switch to the Data tab to see the updated entries.", preview
+        return "✅ Done – the Data tab is now up to date.", preview, build_table_rows(data)
 
     import_btn.click(
         do_import,
         inputs=[csv_upload],
-        outputs=[import_status, import_preview],
+        outputs=[import_status, import_preview, table],
     )
-

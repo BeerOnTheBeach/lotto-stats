@@ -48,7 +48,6 @@ LOCKED_COL_CSS = """
     font-style: italic;
     cursor: not-allowed !important;
 }
-/* Also dim the headers of locked cols */
 .lotto-table table thead tr th:nth-child(5),
 .lotto-table table thead tr th:nth-child(6),
 .lotto-table table thead tr th:nth-child(7),

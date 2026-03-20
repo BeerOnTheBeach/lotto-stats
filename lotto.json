@@ -1,2 +1,4344 @@
-{"meta": {"description": "6aus49 Lotto community tip pool", "win_classes": {}}, "draws": []}
-
+{
+  "meta": {
+    "description": "6aus49 Lotto community tip pool",
+    "win_classes": {
+      "1": {
+        "correct": 6,
+        "super_number": true,
+        "label": "6 correct + super number",
+        "avg_win_eur": null
+      },
+      "2": {
+        "correct": 6,
+        "super_number": false,
+        "label": "6 correct",
+        "avg_win_eur": null
+      },
+      "3": {
+        "correct": 5,
+        "super_number": true,
+        "label": "5 correct + super number",
+        "avg_win_eur": null
+      },
+      "4": {
+        "correct": 5,
+        "super_number": false,
+        "label": "5 correct",
+        "avg_win_eur": 2900.0
+      },
+      "5": {
+        "correct": 4,
+        "super_number": true,
+        "label": "4 correct + super number",
+        "avg_win_eur": 150.0
+      },
+      "6": {
+        "correct": 4,
+        "super_number": false,
+        "label": "4 correct",
+        "avg_win_eur": 45.0
+      },
+      "7": {
+        "correct": 3,
+        "super_number": true,
+        "label": "3 correct + super number",
+        "avg_win_eur": 10.0
+      },
+      "8": {
+        "correct": 3,
+        "super_number": false,
+        "label": "3 correct",
+        "avg_win_eur": 10.0
+      },
+      "9": {
+        "correct": 2,
+        "super_number": true,
+        "label": "2 correct + super number",
+        "avg_win_eur": 5.0
+      }
+    }
+  },
+  "draws": [
+    {
+      "date": "2024-10-16",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-10-23",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-10-30",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-11-06",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-11-13",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-11-20",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-11-27",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-12-04",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-12-11",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-12-18",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2024-12-25",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-01-01",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-01-08",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-01-15",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-01-22",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-01-29",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-02-05",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-02-12",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-02-19",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-02-26",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-03-05",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-03-12",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-03-19",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-03-26",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-04-02",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-04-09",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-04-16",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        }
+      ]
+    },
+    {
+      "date": "2025-04-23",
+      "players": [
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-04-30",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-05-07",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-05-14",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-05-21",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-05-28",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-06-04",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-06-11",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-06-18",
+      "players": [
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-08-06",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": 6,
+          "correct": 4,
+          "super_number": false,
+          "avg_win_eur": 45.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-12-03",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-12-10",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-12-17",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-12-24",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2025-12-31",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": 8,
+          "correct": 3,
+          "super_number": false,
+          "avg_win_eur": 10.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Toni",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 2,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 1,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "players": [
+        {
+          "name": "Amo",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Marco",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Flo",
+          "win_class": 9,
+          "correct": 2,
+          "super_number": true,
+          "avg_win_eur": 5.0
+        },
+        {
+          "name": "Magda",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Toni",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Gero",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Tim",
+          "win_class": null,
+          "correct": 0,
+          "super_number": false,
+          "avg_win_eur": 0.0
+        },
+        {
+          "name": "Luki",
+          "win_class": null,
+          "correct": 1,
+          "super_number": true,
+          "avg_win_eur": 0.0
+        }
+      ]
+    }
+  ]
+}

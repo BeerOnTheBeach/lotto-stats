@@ -11,15 +11,15 @@ from ui.helpers import (
 )
 
 
-def build(demo: gr.Blocks) -> None:
+def build(demo: gr.Blocks) -> gr.Dataframe:
     """Render Tab 1 inside an already-open gr.Blocks context."""
 
     gr.Markdown(
         "### All entries\n"
-        "Click any **✏ Correct** or **✏ SZ** cell to edit inline, "
-        "then hit **💾 Save changes**. "
-        "**🔒 columns** are derived automatically and cannot be edited. "
-        "Click a row + **🗑 Delete row** to remove it."
+        "Click any cell in the **Correct** or **SZ** column to change it directly — "
+        "then hit **💾 Save changes** when you're done. "
+        "The other columns update themselves automatically, no need to touch them. "
+        "To remove a row, click it to select it and then hit **🗑 Delete row**."
     )
 
     table = gr.Dataframe(
@@ -137,4 +137,6 @@ def build(demo: gr.Blocks) -> None:
 
     # populate on startup
     demo.load(lambda: build_table_rows(load()), outputs=[table])
+
+    return table
 
