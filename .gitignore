@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# JetBrains IDE
+.idea/
+
+# Gradio cache
+.gradio/
+gradio_cached_examples/
+
+# Data – keep lotto.csv in version control, but ignore the generated JSON
+lotto.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
