@@ -21,8 +21,8 @@ env/
 .gradio/
 gradio_cached_examples/
 
-# Data – keep lotto.csv in version control, but ignore the generated JSON
-lotto.json
+# Data – lotto.csv is the source of truth, lotto.json is generated but tracked as a placeholder
+# lotto.json
 
 # OS
 .DS_Store
