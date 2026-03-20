@@ -23,6 +23,7 @@ with gr.Blocks(title="🎰 Lotto Tipp-Gemeinschaft", css=LOCKED_COL_CSS) as demo
             import_tab.build()
 
 if __name__ == "__main__":
-    port = int(os.environ.get("GRADIO_SERVER_PORT", 7861))
-    demo.launch(theme=gr.themes.Soft(), server_port=port)
+    port      = int(os.environ.get("GRADIO_SERVER_PORT", 7861))
+    root_path = os.environ.get("GRADIO_ROOT_PATH", "")
+    demo.launch(theme=gr.themes.Soft(), server_port=port, root_path=root_path)
 
